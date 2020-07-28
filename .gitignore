@@ -1,0 +1,7 @@
+node_modules
+*.geojson
+geo.json
+dist
+dist-newstyle
+elm-stuff
+.cache

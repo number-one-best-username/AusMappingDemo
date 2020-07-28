@@ -1,0 +1,10 @@
+* DONE Add population to SA2 point
+  Using Qgis polygon centroids were found from:
+  https://www.abs.gov.au/AUSSTATS/subscriber.nsf/log?openagent&1270055001_sa2_2016_aust_shape.zip&1270.0.55.001&Data%20Cubes&A09309ACB3FA50B8CA257FED0013D420&0&July%202016&12.07.2016&Latest
+  https://www.abs.gov.au/AUSSTATS/subscriber.nsf/log?openagent&32350_erp_age_sex_sa2_2018_gpkg.zip&3235.0&Data%20Cubes&E9A05D5E9D6BF3F5CA2584640014C348&0&2018&29.08.2019&Latest
+  https://www.abs.gov.au/ausstats/subscriber.nsf/log?openagent&1270055003_poa_2016_aust_shape.zip&1270.0.55.003&Data%20Cubes&4FB811FA48EECA7ACA25802C001432D0&0&July%202016&13.09.2016&Previous
+  and stored as; SA2.geojson, SA2_pop.geojson, poa.geojson respectively (inside StatMerge directory)
+* DONE OpenLayer Target
+  Following mouse pointer and zoom detect, either State, LGA, or Suburb
+** TODO Search Box
+** TODO Add about tab
