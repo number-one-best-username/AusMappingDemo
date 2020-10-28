@@ -1,3 +1,2 @@
-# PopulationDensityAustralia
-Population Density of Australia
-View at http://gnarly.dog/popMapAus
+# Population Density Australia
+This is a neat map of Australia's population density, also features a hoverable town/city selection feature.
